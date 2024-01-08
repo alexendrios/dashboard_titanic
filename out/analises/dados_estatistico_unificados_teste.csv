@@ -1,0 +1,15 @@
+,Age,Age,Fare,Fare
+,Estatísticas,Valores,Estatísticas,Valores
+0,Média,29.6,Média,35.58
+1,Mediana,27.0,Mediana,14.45
+2,Moda,27.0,Moda,7.75
+3,Minimo,0.17,Minimo,0.0
+4,Maximo,76.0,Maximo,512.33
+5,Desvio_Padrao,12.7,Desvio_Padrao,55.85
+6,Amplitude,75.83,Amplitude,512.33
+7,Q1,23.0,Q1,7.9
+8,Q2,27.0,Q2,14.45
+9,Q3,35.75,Q3,31.47
+10,IQR,12.75,IQR,23.58
+11,limite_inferior_outliers,3.88,limite_inferior_outliers,-27.47
+12,limite_superior_outliers,54.88,limite_superior_outliers,66.84

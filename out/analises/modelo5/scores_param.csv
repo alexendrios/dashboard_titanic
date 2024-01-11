@@ -1,0 +1,4 @@
+,Modelo,Melhor Score,Melhores Parâmetros
+0,Regressão Logística,0.8089887640449438,"{'C': 0.1, 'max_iter': 100, 'penalty': 'l2', 'solver': 'saga'}"
+1,RandomForest,0.8314606741573034,"{'criterion': 'entropy', 'max_depth': 6, 'max_features': None, 'n_estimators': 1000}"
+2,MLPClassifier,0.8174157303370786,"{'alpha': 1e-05, 'max_iter': 200, 'solver': 'adam'}"

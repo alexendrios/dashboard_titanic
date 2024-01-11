@@ -1,0 +1,11 @@
+,Acuracia,Relatorio_Classificacao,Matriz_Confusao
+0,0.8135593220338984,"              precision    recall  f1-score   support
+
+           0       0.82      0.87      0.85       175
+           1       0.80      0.72      0.76       120
+
+    accuracy                           0.81       295
+   macro avg       0.81      0.80      0.80       295
+weighted avg       0.81      0.81      0.81       295
+","[[153  22]
+ [ 33  87]]"
